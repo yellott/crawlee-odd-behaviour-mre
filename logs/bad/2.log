@@ -1,0 +1,193 @@
+INFO  System info {"apifyVersion":"3.1.2","apifyClientVersion":"2.6.3","crawleeVersion":"3.2.2","osType":"Linux","nodeVersion":"v18.13.0"}
+DEBUG HttpCrawler:SessionPool: No 'persistStateKeyValueStoreId' options specified, this session pool's data has been saved in the KeyValueStore with the id: 089494b2-7019-42c1-8e5e-2c83eca681df
+INFO  HttpCrawler: Starting the crawl
+DEBUG HttpCrawler:AutoscaledPool:Snapshotter: Setting max memory of this run to 1986 MB. Use the CRAWLEE_MEMORY_MBYTES or CRAWLEE_AVAILABLE_MEMORY_RATIO environment variable to override it.
+DEBUG HttpCrawler:SessionPool: Created new Session - session_L6r7NN3wGY
+DEBUG HttpCrawler:SessionPool: Created new Session - session_es2GHYVLHb
+DEBUG HttpCrawler:SessionPool: Created new Session - session_Z0zLtlNiAy
+DEBUG HttpCrawler:SessionPool: Created new Session - session_8bGxlo7ZTq
+DEBUG HttpCrawler:SessionPool: Created new Session - session_iNLPSt1OFm
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=React&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=React&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Vue.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Vue.js&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_8ec8wvBXbO
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Angular&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Angular&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_HCm0wpO5Ef
+DEBUG HttpCrawler:SessionPool: Created new Session - session_hvwqPSuYpP
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=jQuery&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=jQuery&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Lodash&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Lodash&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_6ykytpGUIh
+DEBUG HttpCrawler:SessionPool: Created new Session - session_tTTCrxqWSX
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Redux&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Redux&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=D3.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=D3.js&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Express&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Express&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Bootstrap&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Bootstrap&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Ember.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Ember.js&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_9LZHSmih1Y
+DEBUG HttpCrawler:SessionPool: Created new Session - session_b3kIPmQfqO
+DEBUG HttpCrawler:SessionPool: Created new Session - session_rak99SfeqX
+DEBUG HttpCrawler:SessionPool: Created new Session - session_X3kddpaDlA
+DEBUG HttpCrawler:SessionPool: Created new Session - session_zk9iq6FDZI
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Backbone.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Backbone.js&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Underscore.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Underscore.js&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_GmikcZmwSr
+DEBUG HttpCrawler:SessionPool: Created new Session - session_daxKkJOmg8
+DEBUG HttpCrawler:SessionPool: Created new Session - session_tZyaoNtana
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Moment.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Moment.js&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Chart.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Chart.js&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_g9XBMtNZYP
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Socket.IO&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Socket.IO&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_haiGcgMh6X
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Jest&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Jest&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Three.js&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Three.js&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Mocha&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Mocha&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Gulp&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Gulp&key=STEP_ONE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_ONE","url":"http://localhost:3000/root?name=Grunt&key=STEP_ONE"}
+INFO  HttpCrawler: STEP_ONE {"url":"http://localhost:3000/root?name=Grunt&key=STEP_ONE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_JYwDksby1f
+DEBUG HttpCrawler:SessionPool: Created new Session - session_AqxjNCbmNv
+DEBUG HttpCrawler:SessionPool: Created new Session - session_u8D02YJECv
+DEBUG HttpCrawler:SessionPool: Created new Session - session_yppZHbNDrZ
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=React&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=React&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Vue.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Vue.js&key=STEP_TWO"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_aFzGiyoUAN
+DEBUG HttpCrawler:SessionPool: Created new Session - session_qQmb1IqCaa
+DEBUG HttpCrawler:SessionPool: Created new Session - session_hV1KKVXXDM
+DEBUG HttpCrawler:SessionPool: Created new Session - session_cuFSZdPIdl
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Angular&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Angular&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Lodash&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Lodash&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=jQuery&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=jQuery&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=D3.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=D3.js&key=STEP_TWO"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_wSHPPQlaHo
+DEBUG HttpCrawler:SessionPool: Created new Session - session_b9NpUPpXuN
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Redux&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Redux&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Express&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Express&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Ember.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Ember.js&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Bootstrap&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Bootstrap&key=STEP_TWO"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_WWpjgWApIM
+DEBUG HttpCrawler:SessionPool: Created new Session - session_IrHuzvSm62
+DEBUG HttpCrawler:SessionPool: Created new Session - session_jKTFRv2Rf4
+DEBUG HttpCrawler:SessionPool: Created new Session - session_GMZFV2GHcU
+DEBUG HttpCrawler:SessionPool: Created new Session - session_o9gSWeVPLd
+DEBUG HttpCrawler:SessionPool: Created new Session - session_4yyLnZOHgH
+DEBUG HttpCrawler:SessionPool: Created new Session - session_DIZe01pFzt
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Underscore.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Underscore.js&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Backbone.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Backbone.js&key=STEP_TWO"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_PhVXtst43t
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Moment.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Moment.js&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Chart.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Chart.js&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Socket.IO&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Socket.IO&key=STEP_TWO"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_NgdGOx1SL0
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Jest&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Jest&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Three.js&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Three.js&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Mocha&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Mocha&key=STEP_TWO"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_XcDd2vcIZu
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Gulp&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Gulp&key=STEP_TWO"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_TWO","url":"http://localhost:3000/root?name=Grunt&key=STEP_TWO"}
+INFO  HttpCrawler: STEP_TWO {"url":"http://localhost:3000/root?name=Grunt&key=STEP_TWO"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_tSPhqHBnBG
+DEBUG HttpCrawler:SessionPool: Created new Session - session_7YZC4ADwFn
+DEBUG HttpCrawler:SessionPool: Created new Session - session_3TGA8EOdoP
+DEBUG HttpCrawler:SessionPool: Created new Session - session_6iDbGRN2sN
+DEBUG HttpCrawler:SessionPool: Created new Session - session_wG9vTJrlSi
+DEBUG HttpCrawler:SessionPool: Created new Session - session_SuxqPRFGkb
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=React&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=React&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Vue.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Vue.js&key=STEP_THREE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_N23Rxn6dAv
+DEBUG HttpCrawler:SessionPool: Created new Session - session_fgWiSQzcTq
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Angular&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Angular&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Lodash&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Lodash&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=jQuery&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=jQuery&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=D3.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=D3.js&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Redux&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Redux&key=STEP_THREE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_XR7jWv6Cu9
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Express&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Express&key=STEP_THREE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_qREdXbRIcC
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Ember.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Ember.js&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Bootstrap&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Bootstrap&key=STEP_THREE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_7660olUazd
+DEBUG HttpCrawler:SessionPool: Created new Session - session_sEY9IccsvQ
+DEBUG HttpCrawler:SessionPool: Created new Session - session_a1Iiez9vAT
+DEBUG HttpCrawler:SessionPool: Created new Session - session_HA83wq9nQx
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Underscore.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Underscore.js&key=STEP_THREE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_5sf2QAhYpA
+DEBUG HttpCrawler:SessionPool: Created new Session - session_PVv5seB1jy
+DEBUG HttpCrawler:SessionPool: Created new Session - session_Bqt19C0l9Z
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Backbone.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Backbone.js&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Moment.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Moment.js&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Chart.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Chart.js&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Socket.IO&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Socket.IO&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Jest&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Jest&key=STEP_THREE"}
+DEBUG HttpCrawler:SessionPool: Created new Session - session_SFa8DWI9kp
+DEBUG HttpCrawler:SessionPool: Created new Session - session_od7j8ZcJKT
+DEBUG HttpCrawler:SessionPool: Created new Session - session_2qknWHGy6d
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Three.js&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Three.js&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Mocha&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Mocha&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Gulp&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Gulp&key=STEP_THREE"}
+DEBUG HttpCrawler: Page opened. {"label":"STEP_THREE","url":"http://localhost:3000/root?name=Grunt&key=STEP_THREE"}
+INFO  HttpCrawler: STEP_THREE {"url":"http://localhost:3000/root?name=Grunt&key=STEP_THREE"}
+INFO  HttpCrawler: All requests from the queue have been processed, the crawler will shut down.
+DEBUG HttpCrawler:SessionPool: Persisting state {"persistStateKey":"SDK_SESSION_POOL_STATE"}
+DEBUG Statistics: Persisting state {"persistStateKey":"SDK_CRAWLER_STATISTICS_0"}
+DEBUG HttpCrawler:SessionPool: Persisting state {"persistStateKey":"SDK_SESSION_POOL_STATE"}
+DEBUG Statistics: Persisting state {"persistStateKey":"SDK_CRAWLER_STATISTICS_0"}
+INFO  HttpCrawler: Crawl finished. Final request statistics: {"requestsFinished":60,"requestsFailed":0,"retryHistogram":[60],"requestAvgFailedDurationMillis":null,"requestAvgFinishedDurationMillis":48,"requestsFinishedPerMinute":7547,"requestsFailedPerMinute":0,"requestTotalDurationMillis":2872,"requestsTotal":60,"crawlerRuntimeMillis":477}
+ERROR Missing entries {"0":"React"}
+DEBUG Waiting for all event listeners to complete their execution (with 30 seconds timeout)
+INFO  Actor finished successfully (exit code 0)
